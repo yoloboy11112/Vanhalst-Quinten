@@ -1,0 +1,156 @@
+body{    
+background: linear-gradient(rgb(18, 9, 53) 30%, rgb(34, 3, 48) 30%);
+}
+.blok1 {
+    position:absolute;
+    height: 200px;
+    top: 50px;
+    left: 500px;
+    width: 800px;    
+}
+.nav {
+    position: absolute;
+    top: 300px;
+    width: 100px;
+    height: 90px;    
+}
+.nav ul {
+    padding: 0%;
+    margin: 0%;
+}
+.nav a {
+    display: block;
+    text-decoration: none;
+    align-items: center;
+    background-color: grey;
+    text-align: center;
+    background-color: gray;
+    border: solid 2px blue;
+    
+
+}
+.nav a :hover{
+    position: absolute;
+}
+.tekst1{
+    position:absolute;
+    top: 500px;
+    left: 500px;   
+    width: 800px;
+    height: 400px;
+    border: 2px solid grey; 
+}
+.ik{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
+.ik2{
+position: absolute;
+top: 300px;
+left: 750px;
+}
+.gal{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+}
+.tekst2{
+    position:absolute;
+    top: 100px;
+    left:500px;
+}
+.tekst3{
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+.bad{
+     position: absolute;
+     top: 500px;
+     left: 680px;
+}
+.tekst4{
+    position: absolute;
+    left: 270px;
+    top: 50px;
+}
+table{
+    position: absolute;
+    top: 400px;
+    left: 550px;
+}
+.uke{
+    position: absolute;
+    top: 450px;
+    left: 1050px;
+}
+.deriva{
+    position: absolute;
+    top: 450px;
+    left: 280px;
+}
+.mask{
+    position: absolute;
+    top: 200px;
+    left: 730px;
+}
+
+.oot{
+    position:absolute;
+    top: 750px;
+    left: 300px;
+}
+.cr{
+    position:absolute;
+    top: 750px;
+    left: 650px;
+}
+.dancin{
+    position:absolute;
+    top: 750px;
+    left: 1000px;
+}
+.oomm{
+    position:absolute;
+    top: 750px;
+    left: 1350px;
+}
+.tekst5{
+    position: absolute;
+    left: 480px;
+    top: 200px;
+    
+    
+}
+.jack{
+    position: absolute;
+    top: 1350px;
+    left: 490px;
+    
+}
+.tekst6{
+    position:absolute;
+    top: 150px;
+    left: 250px;
+}
+.video{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.footer
+{
+    position: fixed;
+    text-align: left;
+    bottom: 0px;
+    background-color: white;
+    border: solid 2px purple;
+    color: black;
+
+}
+ 
+
+ 
+
+ 
